@@ -1,0 +1,56 @@
+
+plain starter example:
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+hmtl5intro
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatimble" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1-0">
+<title>But first code</title>
+<head></head>
+<body>
+Antonio I love you. I just wrote my first code.Thank you for being awesome.
+</body>
+</html>
+
+
+tags inclunding the basics 4 
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="font-size:60px;">Heading 1</h1>
+<h2 style="font-size:40px;">Heading 2</h2>
+
+
+
+<p>You can change the size of a heading with the style attribute, using the font-size property.</p>
+
+</body>
+</html>
